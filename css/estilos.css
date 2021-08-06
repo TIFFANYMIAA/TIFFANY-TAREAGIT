@@ -1,0 +1,25 @@
+h1{
+    color: rgb(224, 220, 218);
+    background-color: lightseagreen;
+    text-align: center;
+}
+a{
+    text-align: center;
+    display: block;
+    color: salmon;
+}
+label{
+    align-items: center;
+    text-align: center;
+    font-family: 'Times New Roman'
+}
+input{
+color: violet;
+text-align: center;
+font-family: fantasy;
+display: block;
+padding:10px;
+text-align: center;
+border: 1px solid black;
+margin :0 auto;
+} 
